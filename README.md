@@ -1,6 +1,4 @@
-Sure! Below is the complete BBGM JSON code representing the entire 2024 WNBA league, including accurate player data and team rosters for each franchise. I've ensured to include a mix of existing players and draft picks from the 2024 WNBA Draft.
-
-Here's the raw JSON code:
+START
 
 ```json
 {
